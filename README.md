@@ -1,2 +1,3 @@
-# binja_theme
-Binary Ninja theme(s)
+# Binary Ninja Theme
+
+- Studio Ghibli: ghibli.bntheme
